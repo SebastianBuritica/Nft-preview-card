@@ -25,8 +25,8 @@ I practiced my knowledge in the z-index positioning property, the transform prop
 
 ## Author
 
-Frontend Mentor (https://www.frontendmentor.io/profile/SebastianBuritica)  
-Twitter (https://twitter.com/wolfgangct) 
+- Frontend Mentor (https://www.frontendmentor.io/profile/SebastianBuritica)  
+- Twitter (https://twitter.com/wolfgangct) 
 
 
 ## Acknowledgments
