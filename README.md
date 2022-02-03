@@ -13,7 +13,7 @@
 
 ## What I learned
 
-I practiced my knowledge in the z-index positioning property, the transform property,  I also learnt how to set a background color in order to hover over an image an have an opacity using the transform property and also using the calc property so that the background color for the hover effect doesnt overlap the main image of the page. 
+I practiced my knowledge in the z-index positioning property, the transform property,  I also learnt how to set a background color in order to hover over an image and have an opacity using the transform property and also using the calc property so that the background color for the hover effect doesnt overlap the main image of the page. 
 
 
 ## Useful resources
