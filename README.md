@@ -19,8 +19,8 @@ I practiced my knowledge in the z-index positioning property, the transform prop
 ## Useful resources
 
 
-https://developer.mozilla.org/es/docs/Web/CSS/z-index 
-https://developer.mozilla.org/es/docs/Web/CSS/calc() 
+- https://developer.mozilla.org/es/docs/Web/CSS/z-index 
+- https://developer.mozilla.org/es/docs/Web/CSS/calc() 
 
 
 ## Author
