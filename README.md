@@ -18,15 +18,18 @@
 
 <h2>Useful resources<h2>
 
-https://developer.mozilla.org/es/docs/Web/CSS/z-index
-https://developer.mozilla.org/es/docs/Web/CSS/calc()
+<ul>
+<li> https://developer.mozilla.org/es/docs/Web/CSS/z-index <li>
+<li> https://developer.mozilla.org/es/docs/Web/CSS/calc() <li>
 
 
  <h2>Author<h2>
 
 <h4>
-- Frontend Mentor (https://www.frontendmentor.io/profile/SebastianBuritica)
-- Twitter (https://twitter.com/wolfgangct)
+<ul>
+<li> Frontend Mentor (https://www.frontendmentor.io/profile/SebastianBuritica) <li> 
+<li> Twitter (https://twitter.com/wolfgangct) <li>
+<ul>
 <h4>
 
 <h2>Acknowledgments<h2>
